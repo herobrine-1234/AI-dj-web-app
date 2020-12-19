@@ -1,0 +1,8 @@
+body{background-size:cover;}
+.div_disk_gif1,.div_disk_gif0{width:200px;border-radius:100px;}
+.div_speed{float:left}
+.div_volume{float:right}
+.heading_div{width:100%;margin:0px;font-size:30px}
+.note{font-size:15px;color:green}
+#speed,#volume{font-size:25px;margin:15px}
+canvas{border:10px dotted rgb(122, 161, 122);}
